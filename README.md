@@ -1,2 +1,2 @@
-# Exerc-cios
+# Exercicios
 Exercicios desenvolvidos em sala de aula
